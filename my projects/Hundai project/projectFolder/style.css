@@ -1,0 +1,217 @@
+.image {
+    margin-left: 35px;
+    position: relative;
+    height: 540px;
+    width: 94%;
+    padding-top: 95px;
+
+}
+
+.maintop {
+    height: 71px;
+    width: 100%;
+    display: flex;
+
+
+
+}
+
+
+.A {
+
+    position: absolute;
+
+    width: 100%;
+    opacity: 0.3;
+    height:740px;
+
+}
+
+.main2nd {
+    height: inherit;
+    width: 11%;
+}
+
+
+.top1:hover {
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+
+
+.top1 {
+    width: 90%;
+    font-size: 14px;
+    padding-top: 26px;
+    color: rgba(0, 0, 0, 0.518);
+
+
+}
+
+.background_home_div {
+    position: absolute;
+    display: flex;
+    margin-top: 17px;
+    width: 98%;
+    height: 46px;
+}
+.background_home_div:hover{
+    cursor: pointer;
+}
+
+
+.notes {
+    margin-left: 100px;
+    margin-right: 100px;
+    line-height: 30px;
+    font-family: "HyundaiRegular";
+}
+.spacing{
+    width:100% ;height:120px ;
+}
+.button_class{
+   
+    width: 100%;
+    height: 300px;
+    background-color: bisque;
+    
+}
+.button{
+    
+border: 0px;
+    height: 45px;
+    width: 270px;
+    color: rgb(251, 252, 251);
+    background-color: rgb(44, 44, 147);
+    font-weight: bold;
+}
+.button:hover{
+    background-color: rgb(32, 32, 103);
+    cursor: pointer;
+}
+.button:active{
+    background-color: rgb(35, 35, 45);
+}
+.form1{
+    height: 25px;
+    width:100% ;
+  
+}
+.form2{
+    height:25px ;
+    width:30% ;
+    
+}
+.formtext{
+    font-size: medium;
+    font-weight: 900;
+    
+}
+.division{
+    width: 100%;
+    height: 25px;
+padding-top:25px ;
+}
+.main-div{
+    margin-left:5% ;
+    margin-right:5% ;
+
+}
+.otp{
+   margin-left:35px ; 
+    height: 30px;
+    width: 105px;
+    background-color: rgb(49, 49, 141);
+    color: white;
+}
+.otp:hover{
+    background-color: rgb(2, 2, 101);
+    cursor: progress;
+}
+.option_tex{
+
+    color: rgb(101, 101, 100);
+
+}
+
+.comment_box{
+    height:120px ;
+    width: 100%;
+
+}
+
+.submit-button{
+  margin-top: 60px;
+    margin-left: 450px;
+    height:50px ;
+    width:150px ;
+    background-color: rgb(23, 23, 148);
+    color: aliceblue;
+    border:0 ;
+    font-weight: 600;
+    font-size: medium;
+}
+.submit-button:hover{
+    background-color: rgb(9, 9, 70);
+    cursor: pointer;
+}
+
+.last-div{
+    margin-top:40px ;
+    height: 270px;
+    width: 100%;
+    background-color: black;
+    color: rgb(143, 139, 134);
+}
+.lastlogo{
+    margin-left:50PX ;
+    margin-top:0px;
+    height:115px ;
+    width:55px ;
+}
+.innerdiv{
+    margin-top: -93px;
+    margin-left: 175px;
+    display:flex ;
+    height: 25px;
+    width: 60%;
+    color: rgb(121, 124, 126);
+}
+
+.innerdiv:hover{
+    color: aliceblue;
+    cursor: pointer;
+}
+
+
+
+
+.textpadding {
+    padding-left:1px ;
+
+}
+.copyrightdiv{
+    margin-top: -205px;
+    margin-left: 175px;
+    color: rgb(94, 101, 105);
+    font-size: small;
+    width: 350px;
+    height: 10px;
+}
+.icons{
+    display: flex;
+    margin-top:-50px ;
+    margin-left:955px ;
+    height: 22px;
+    width:180px ;
+
+}
+.iconsizing{
+    
+    height:80% ;
+    width:100% ;
+}
+.icondivstyle{
+    width: 7%;
+    padding-left: 10px;
+}
